@@ -1,5 +1,5 @@
 # Databricks
-#####AI Brick - Solves domain specific problem with your own data
+##### AI Brick - Solves domain specific problem with your own data
 1. upload your data to unity catalog volume  
 2. Go to AI Builder - (beta) option in databricks  
 3. click on information extractor  
