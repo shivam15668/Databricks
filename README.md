@@ -39,4 +39,24 @@
 -> listen to ai judges and get iterated  
 
 ##### Agents orchestrating other agents
+
+
 -> is it integrating with other platform agents ? 
+
+### Agentic AI - Microsoft & Accenture  
+
+-> Agents are AI-powered assistant that can automate and execute business tasks and processes  
+##### -> Copilot studio - Low-code, Rapid deployment, Accelerated scalability, Leverages M365 Copilot model  
+##### -> Azure AI Foundry - Pro-code, Advanced customization, Increased flexibility, Fine tune foundational AI models  
+
+### Copilot studio low-code platform is an accessible tool for designing, enhancing and managing agents  
+
+## Azure AI Foundry - Azure openAI Service, Azure AI Search, Azure AI Agent service, Azure AI Content Safety, Azure Machine Learning
+
+-> Security - ** Microsoft Sentinel, Purview, Entra, Intune, Defender ** to protect ** Copilot, Azure AI Foundry, Microsoft Fabric**  
+
+#### Do not design for only one use case. Design for all future Agentic use case
+
+### Microsoft Fabric - Data Platform fot the era of AI 
+
+##### AI + OneLake + Purview with Data Factory + Analytics + Databases + Real-time Intelligence + Power BI 
