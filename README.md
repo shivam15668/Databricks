@@ -51,9 +51,9 @@
 
 ### Copilot studio low-code platform is an accessible tool for designing, enhancing and managing agents  
 
-## Azure AI Foundry - Azure openAI Service, Azure AI Search, Azure AI Agent service, Azure AI Content Safety, Azure Machine Learning
+#### Azure AI Foundry - Azure openAI Service, Azure AI Search, Azure AI Agent service, Azure AI Content Safety, Azure Machine Learning
 
--> Security - ** Microsoft Sentinel, Purview, Entra, Intune, Defender ** to protect ** Copilot, Azure AI Foundry, Microsoft Fabric**  
+-> Security -  **Microsoft Sentinel, Purview, Entra, Intune, Defender ** to protect ** Copilot, Azure AI Foundry, Microsoft Fabric**  
 
 #### Do not design for only one use case. Design for all future Agentic use case
 
